@@ -10,7 +10,7 @@ setlocal enabledelayedexpansion
 set "RegKey=HKEY_CURRENT_USER\Software\Game Maker\Version 8.2\Preferences"
 
 ::File path
-set "RegFile=MyTheme.reg"
+set "RegFile=MyTheme8.reg"
 
 ::Create an empty .reg file and write this to it
 echo Windows Registry Editor Version 5.00 > "%RegFile%"
