@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00 
+;Copyright Microsoft Visual Studio
+[HKEY_CURRENT_USER\Software\Game Maker\Version 8.1\Preferences]
+"CodeColor0"=dword:00c6b7a9
+"CodeColor1"=dword:003278cc
+"CodeColor2"=dword:00bb9768
+"CodeColor3"=dword:00808080
+"CodeColor4"=dword:00c6b7a9
+"CodeColor5"=dword:003278cc
+"CodeColor6"=dword:006dc6ff
+"CodeColor7"=dword:006dc6ff
+"CodeColor8"=dword:00bb82a7
+"CodeColor9"=dword:002b2b2b
+"CodeColor10"=dword:00464646
+"CodeColor11"=dword:004e3427

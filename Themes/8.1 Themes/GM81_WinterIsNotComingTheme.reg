@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00 
+;Copyright Inspired by John Papa, Winter is Coming
+[HKEY_CURRENT_USER\Software\Game Maker\Version 8.1\Preferences]
+"CodeColor0"=dword:00f7dba7
+"CodeColor1"=dword:00f9bf00
+"CodeColor2"=dword:0095ec8d
+"CodeColor3"=dword:00999999
+"CodeColor4"=dword:00f4af87
+"CodeColor5"=dword:0081ff6b
+"CodeColor6"=dword:00f4af87
+"CodeColor7"=dword:00f4af87
+"CodeColor8"=dword:00b5ecf7
+"CodeColor9"=dword:00271601
+"CodeColor10"=dword:005b2e07
+"CodeColor11"=dword:00773d09

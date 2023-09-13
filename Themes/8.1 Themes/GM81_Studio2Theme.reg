@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00 
+;Copyright YoYoGames GameMaker
+[HKEY_CURRENT_USER\Software\Game Maker\Version 8.1\Preferences]
+"CodeColor0"=dword:00ffcaca
+"CodeColor1"=dword:0071b8ff
+"CodeColor2"=dword:008080ff
+"CodeColor3"=dword:005a985a
+"CodeColor4"=dword:005b5bff
+"CodeColor5"=dword:005ae558
+"CodeColor6"=dword:0071b8ff
+"CodeColor7"=dword:0071b8ff
+"CodeColor8"=dword:008080ff
+"CodeColor9"=dword:00222222
+"CodeColor10"=dword:00444444
+"CodeColor11"=dword:008a8478
