@@ -1,4 +1,5 @@
 Windows Registry Editor Version 5.00
+;Copyright Dracula Theme https://github.com/dracula
 [HKEY_CURRENT_USER\Software\Game Maker\Version 8.2\Preferences]
 "CodeColor0"=dword:00f2f8f8
 "CodeColor1"=dword:00c679ff

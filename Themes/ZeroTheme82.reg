@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00 
+;Copyright AgitoReiKen https://github.com/AgitoReiKen/vstheme-zero
+[HKEY_CURRENT_USER\Software\Game Maker\Version 8.2\Preferences]
+"CodeColor0"=dword:007a6052
+"CodeColor1"=dword:00855cd6
+"CodeColor2"=dword:00db7094
+"CodeColor3"=dword:007a6052
+"CodeColor4"=dword:00db7094
+"CodeColor5"=dword:00997733
+"CodeColor6"=dword:00855cd6
+"CodeColor7"=dword:00855cd6
+"CodeColor8"=dword:00db7094
+"CodeColor9"=dword:001b1613
+"CodeColor10"=dword:00463b37
+"CodeColor11"=dword:00352a24
