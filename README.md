@@ -3,5 +3,3 @@
 - Customize your code editor with just 2 clicks.
 - Build your own code editor theme with the included [tool](Themes/CreateThemeFromRegistry.bat).
 - Feel free to open a pull request to add your own themes
-
-[Explore Themes](Themes)
